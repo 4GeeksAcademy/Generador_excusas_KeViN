@@ -1,5 +1,8 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
-body{
-    background: white;
+* {
+    font-family: Helvetica, sans-serif;
+}
+.excusa {
+    display: grid;
+    place-items: center;
+    margin-top: 200px;
 }
